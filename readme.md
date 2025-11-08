@@ -27,26 +27,26 @@ The goal was to create an **interactive reporting system** that serves two user 
 ## 📁 Repository Structure
 ```bash
 
-PowerBI-Sales-Analysis/
+PowerBI-Sales-analysis/
 │
-├── 📂 Instructions/
-│   └── Instructions.pdf                     # Project overview and requirements
+├── Instructions/
+│ └── Instructions.pdf                             # Project overview and business requirements
 │
-├── 📂 Notes/
-│   └── PBI_sales_analysis_notes.pdf         # Detailed planning and handwritten workflow notes
+├── Notes/
+│ └── PBI_sales_analysis_notes.pdf                 # Detailed handwritten notes and visual planning
 │
-├── 📂 Scripts/
-│   ├── Final Project CEO.pbix               # CEO-focused dashboard (Profit & Revenue)
-│   └── Final Project Marketing Team.pbix    # Marketing & Product team dashboard (Category & Customer Insights)
+├── Scripts/
+│ ├── Final Project CEO.pbix                       # CEO dashboard (profit, loss, and revenue KPIs)
+│ └── Final Project Marketing Team.pbix            # Marketing & product analysis dashboard
 │
-├── 📂 data/
-│   ├── Retail Company Data.xlsx             # Master data source
-│   ├── Sales2017.csv                        # Yearly sales data
-│   ├── Sales2018.csv
-│   ├── Sales2019.csv
-│   └── Sales2020.csv
+├── data/
+│ ├── Retail Company Data.xlsx                     # Master data file containing all entities
+│ ├── Sales2017.csv                                # Year-wise sales data
+│ ├── Sales2018.csv
+│ ├── Sales2019.csv
+│ └── Sales2020.csv
 │
-└── readme.txt                               # Setup instructions / old documentation
+└── readme.txt                                     # Setup instructions / documentation
 
 ```
 ---
