@@ -196,7 +196,7 @@ PowerBI-Sales-Analysis/
 
 **Shivam Kumar**  
 Data Analyst | Writer 
-Building data systems that talk — not just store.  
+> Building data systems that talk — not just store.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/meshivamk/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/meshivamk)
